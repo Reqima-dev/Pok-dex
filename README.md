@@ -7,7 +7,8 @@ J'ai utilisé l'Api [PokéAPI](https://pokeapi.co/) pour récupérer les donnée
 
 Je me suis basé sur la maquette Figma de 
 Ricardo Schiniegoski. Pour y accéder, vous pouvez cliquer sur le lien suivant : [Open in Figma](https://www.figma.com/community/file/979132880663340794)
-
+![Alt text](<assets/Pokédex (Community).png>)
+ 
 ## Comment démarrer ?
 0. Mettre un étoile au dépot de ce projet sur GitHub
 
